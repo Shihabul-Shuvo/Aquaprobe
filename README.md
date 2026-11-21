@@ -9,7 +9,7 @@
 *MaCVi 2027 · 5th Workshop on Maritime Computer Vision at WACV 2027*
 
 [![arXiv](https://img.shields.io/badge/arXiv-2610.40900-b31b1b.svg)](https://arxiv.org/abs/2610.40900)
-![WACVW 2027](https://img.shields.io/badge/MaCVi%20%40%20WACV-2027-1f6feb.svg)
+![WACVW 2027](https://img.shields.io/badge/WACVW-2027-1f6feb.svg)
 ![Python 3.11](https://img.shields.io/badge/Python-3.11-3776AB.svg?logo=python&logoColor=white)
 ![PyTorch 2.8](https://img.shields.io/badge/PyTorch-2.8-EE4C2C.svg?logo=pytorch&logoColor=white)
 
